@@ -20,4 +20,5 @@
   <p>Ya podrás interactuar con el contenedor y crear tus contraseñas a medida y con la función de dejar copiada la contraseña para guardarla en tu gestor de contraseñas       como por ejemplo Bitwarden.</p>
   <p>https://bitwarden.com/download/</p>
   <li>Disfruta y dame las gracias.</li>
+  <p>La imagen está disponible en mi dockerhub. https://hub.docker.com/repository/docker/borjaescolar/password_generator/general.</p>
 </ul>
