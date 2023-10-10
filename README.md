@@ -1,8 +1,7 @@
-<center>
-<div>
+<div align="center">
   <img src="docker.png" width="200px" height="150px"><img src="phyton.png" width="200px" height="150px">
 </div>
-</center>
+
 # PasswordGenerator for linux
 <h2>Pasos para poder crear la imagen y correr el contenedor</h2>
 <ul>
