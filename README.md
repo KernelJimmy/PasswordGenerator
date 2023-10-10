@@ -1,4 +1,6 @@
-<img src="docker.png" width="100px" height="100px">
+<div>
+  <img src="docker.png" width="100px" height="100px"><img src="python.png" width="100px" height="100px">
+</div>
 # PasswordGenerator for linux
 <h2>Pasos para poder crear la imagen y correr el contenedor</h2>
 <ul>
