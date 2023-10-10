@@ -1,6 +1,6 @@
 <div>
   <center>
-  <img src="docker.png" width="200px" height="200px"><img src="phyton.png" width="200px" height="200px">
+  <img src="docker.png" width="200px" height="150px"><img src="phyton.png" width="200px" height="150px">
   </center>
 </div>
 # PasswordGenerator for linux
