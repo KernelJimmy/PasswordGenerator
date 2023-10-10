@@ -13,5 +13,7 @@
   <p>$docker build -t [nombre_que_quieras]</p>
   <li>Una vez que la imagen se ha creado ya puedes correr el contenedor con:</li>
   <p><i>docker run -it --rm -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix -e XAUTHORITY=/Xauthority-file-path def_pyper</i></p>
-  <p>Ya podrás interactuar con el contenedor y crear tus contraseñas a medida y con la función de dejar copiada la contraseña para guardarla en tu gestor de contraseñas       como por ejemplo Bitwarden</p>
+  <p>Ya podrás interactuar con el contenedor y crear tus contraseñas a medida y con la función de dejar copiada la contraseña para guardarla en tu gestor de contraseñas       como por ejemplo Bitwarden</p>.
+  <p>https://bitwarden.com/download/</p>
+  <li>Disfruta y dame las gracias.</li>
 </ul>
