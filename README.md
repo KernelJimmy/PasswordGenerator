@@ -1,4 +1,4 @@
-<img src="">
+<img src="docker.png">
 # PasswordGenerator for linux
 <h2>Pasos para poder crear la imagen y correr el contenedor</h2>
 <ul>
