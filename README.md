@@ -9,6 +9,8 @@
     <p>Se necesita para conectarse al servidor gráfico desde otro host.</p>
   <li>Descarga el fichero passGen.py y examinaló por si no te fias. Si quieres pega el código en chatGPT y que te diga lo que hace.</li>
   <li>Descargar el fichero Dockerfile que como puedes ver no tiene nada raro. Haz lo mismo en chatGPT con este fichero.</li>
-  
+  <li>Cuando este todo descargado y en la misma carpeta corre la imagen del Dockerfile con:</li>
+  <p>$docker build -t [nombre_que_quieras]</p>
+  <li>Una vez que la imagen se ha creado ya puedes correr el contenedor con:</li>
   <p><i>docker run -it --rm -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix -e XAUTHORITY=/Xauthority-file-path def_pyper</i></p>
 </ul>
